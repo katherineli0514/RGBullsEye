@@ -15,6 +15,7 @@
 		88BA855822D99BB200834F79 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88BA855622D99BB100834F79 /* LaunchScreen.storyboard */; };
 		88BA856322D99BB200834F79 /* RGBullsEyeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88BA856222D99BB200834F79 /* RGBullsEyeTests.swift */; };
 		88BA856E22D99BB200834F79 /* RGBullsEyeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88BA856D22D99BB200834F79 /* RGBullsEyeUITests.swift */; };
+		88C24BBA22D9AA61002B76A4 /* ColorSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88C24BB922D9AA61002B76A4 /* ColorSlider.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		88BA856922D99BB200834F79 /* RGBullsEyeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RGBullsEyeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		88BA856D22D99BB200834F79 /* RGBullsEyeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RGBullsEyeUITests.swift; sourceTree = "<group>"; };
 		88BA856F22D99BB200834F79 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		88C24BB922D9AA61002B76A4 /* ColorSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorSlider.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				88BA854B22D99BB000834F79 /* AppDelegate.swift */,
 				88BA854D22D99BB000834F79 /* SceneDelegate.swift */,
 				88BA854F22D99BB000834F79 /* ContentView.swift */,
+				88C24BB922D9AA61002B76A4 /* ColorSlider.swift */,
 				88BA855122D99BB100834F79 /* Assets.xcassets */,
 				88BA855622D99BB100834F79 /* LaunchScreen.storyboard */,
 				88BA855922D99BB200834F79 /* Info.plist */,
@@ -269,6 +272,7 @@
 			files = (
 				88BA854C22D99BB000834F79 /* AppDelegate.swift in Sources */,
 				88BA854E22D99BB000834F79 /* SceneDelegate.swift in Sources */,
+				88C24BBA22D9AA61002B76A4 /* ColorSlider.swift in Sources */,
 				88BA855022D99BB000834F79 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
